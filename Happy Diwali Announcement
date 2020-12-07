@@ -1,0 +1,40 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "title": "Happy Diwali! ",
+      "description": "Hello @everyone,  the team would like to wish you a Diwali that brings happiness prosperity, and joy to you and all your family! Thank you so much for joining and making it an active and entertaining server!\n",
+      "color": 16750848,
+      "fields": [
+        {
+          "name": "Zoom Meeting",
+          "value": "We are planning on hosting a zoom meeting for everyone!\n> __Application:__ Zoom\n> __Date:__ November 14, 2020 \n> __Time:__ Coming Soon\n> __Link:__ [Click Here](https://zoom.us/)",
+          "inline": true
+        },
+        {
+          "name": "Rules And Regulations",
+          "value": "All rules will still apply from our <#770839604630126624> channel! We're hosting this event to allow everyone to meet new people and to have fun! There will be events, prizes, and announcements during the meeting!",
+          "inline": true
+        },
+        {
+          "name": "⠀",
+          "value": "_If you have any questions or concerns, please don't hesitate to contact either a <@770839112764096563> or a <@775480741496750151>._"
+        }
+      ],
+      "author": {
+        "name": "Desi Dhaba Announcements",
+        "icon_url": "https://cdn.discordapp.com/attachments/776163139674439741/776518521739804733/a_4513c07f61b023e79cf37800da618c10.gif"
+      },
+      "footer": {
+        "text": "Desi Dhaba",
+        "icon_url": "https://cdn.discordapp.com/attachments/776163139674439741/776518521739804733/a_4513c07f61b023e79cf37800da618c10.gif"
+      },
+      "timestamp": "2020-11-13T14:48:00.000Z",
+      "image": {
+        "url": "https://cdn.discordapp.com/attachments/776816687076999229/776816784518283294/source.gif"
+      }
+    }
+  ],
+  "username": "Desi Dhaba ",
+  "avatar_url": "https://cdn.discordapp.com/attachments/776163139674439741/776518521739804733/a_4513c07f61b023e79cf37800da618c10.gif"
+}
